@@ -1,2 +1,2 @@
 this is phyton code
-it is easy
+it is easy to understand
